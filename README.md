@@ -1,5 +1,5 @@
 
-# 💡 codex-usage
+# 💡 Codex-usage
 
 > 一个轻量级命令行工具，用于实时查看 **ChatGPT Codex** 的使用额度（包括 5 小时与 7 天窗口），支持彩色进度条、自动刷新与命令行参数。
 
@@ -7,12 +7,10 @@
 
 ## 📦 安装 Installation
 
-### 方式一（推荐开发者使用）
-
 克隆仓库后本地安装：
 
 ```bash
-git clone https://github.com/<yourname>/codex-usage.git
+git clone https://github.com/yjxuestc0919/Codex_usage.git
 cd codex-usage
 pip install .
 ````
@@ -156,5 +154,6 @@ pip install -e .
 ## 🧾 许可证 License
 
 This module is licensed under the MIT License.
+
 ---
 
